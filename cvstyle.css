@@ -1,0 +1,117 @@
+body{
+    background-color : orange;
+}
+
+#global {
+    margin: auto;
+    width: 80%;
+    height: 1000px;
+    background-color: white;
+}
+
+.head {
+    width: 99.5%;
+    height: 25%;
+    border: 3px black solid;
+    background-color: firebrick;
+}
+
+#photo {
+    float: right;
+    background: url("LubinMeunier.jpg");
+    width: 200px;
+    height: 250px;
+    background-size: 200px;
+}
+
+#coordonnees {
+    font-size: 1.5vw;
+    border: 3px black solid;
+    width: 40%;
+    max-height: 50%;
+    text-align: center;
+    }
+
+#reseaux {
+    font-size: 1.5vw;
+    position:relative;
+    top: 2%;
+    border: 3px black solid;
+    width: 40%;
+    max-height: 50%;
+    text-align: center;
+}
+
+#space {
+    clear: both;
+}
+
+
+#titrepro {
+    text-align: center;
+    border: 3px black solid;
+}
+
+.globalpro {
+    border: 3px black solid;
+    width: 99.5%;
+    height: 15%;
+}
+
+#datepro {
+    float: left;
+    border: 3px black solid;
+    width: 12%;
+    height: 97%;
+    margin-left: 1%;
+    text-align: center;
+}
+
+#experiencepro {
+    border: 3px black solid;
+    width: 80%;
+    height: 90%;
+    margin-left: 16%;
+    margin-top: 0.2%;
+}
+
+#titreformation {
+    text-align: center;
+    border: 3px black solid;
+}
+
+.globalformation {
+    border: 3px black solid;
+    width: 99.5%;
+    height: 15%;
+}
+
+#dateformation {
+    float: left;
+    border: 3px black solid;
+    width: 12%;
+    height: 97%;
+    margin-left: 1%;
+    text-align: center;
+}
+
+#experienceformation {
+    border: 3px black solid;
+    width: 80%;
+    height: 90%;
+    margin-left: 16%;
+    margin-top: 0.2%;
+}
+
+
+#titrecompetences {
+    text-align: center;
+    border: 3px black solid;
+}
+
+#competences {
+    border: 3px black solid;
+    width: 99.5%;
+    height: 22%;
+
+}
